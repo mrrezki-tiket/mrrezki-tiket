@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mrrezki-tiket
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Java and Golang
+- 📫 How to reach me at muhammad.ananda@tiket.com
